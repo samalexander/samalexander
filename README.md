@@ -6,4 +6,4 @@ I'm Sam, founder of Full Stack Industries, a leading digital agency based in Sur
 
 We're a team of talented designers and software engineers with one goal...to unlock the digital potential of our clients.
 
-If you'd like to speak to us about a project for your business, email us at [hello@fullstackindustries.com](mailto:hello@fullstackindustries.com) or call 01483 343 737.
+If you'd like to speak to us about a project for your business, email us at [hello@fullstackindustries.com](mailto:hello@fullstackindustries.com).
